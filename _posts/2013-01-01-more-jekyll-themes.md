@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Story of HelloHealth"
+title: "Future direction of HelloHealth"
 ---
 
 #### Test of blog post
 
-Test of the blog post 
+Test of the blog post
